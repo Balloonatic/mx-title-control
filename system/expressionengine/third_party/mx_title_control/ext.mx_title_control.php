@@ -579,7 +579,7 @@ class Mx_title_control_ext
 		$hook_template = array(
 			'class' => __CLASS__,
 			'settings' =>'',
-			'priority' => '1',
+			'priority' => '5',
 			'version' => $this->version,
 		);
 
